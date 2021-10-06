@@ -1,0 +1,1 @@
+mysqldump --opt --where="1 limit 100" mysql help_keyword > mysql_help_keyword.sql
